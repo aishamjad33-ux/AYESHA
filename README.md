@@ -148,9 +148,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aishamjad33-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aishamjad33-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishamjad33-ux&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishamjad33-ux&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 
@@ -183,7 +183,7 @@ ayesha = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-9aba30404/)
 [![GitHub](https://img.shields.io/badge/GitHub-aishamjad33--ux-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aishamjad33-ux)
-[![Email](https://img.shields.io/badge/Email-AishaMjad33%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishamjad33@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aishamjad33%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishamjad33@gmail.com)
 
 </div>
 
