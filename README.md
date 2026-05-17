@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Ayesha</h1>
-<h3>Information Security Analyst | Penetration Tester | Malware Analyst | Security Tool Developer</h3>
+<h3>Information Security Analyst | SIEM | IDS/IPS | Penetration Tester | Malware Analyst | Security Tool Developer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Ethical+Hacker+%F0%9F%94%90;Malware+Analyst+%F0%9F%A6%A0;Security+Tool+Developer+%F0%9F%9B%A1%EF%B8%8F;Blue+Team+%2B+Red+Team+%F0%9F%8E%AF;CCNA+%7C+CCNP+%7C+CEH+Certified+%E2%9C%85" alt="Typing SVG" />
 
@@ -167,7 +167,7 @@
 ```python
 ayesha = {
     "location"       : "Pakistan 🇵🇰",
-    "certifications" : ["CCNA", "CCNP", "CEH", "OSCP (in progress)"],
+    "certifications" : ["CCNA", "CCNP", "CEH", "OSCP (in progress)", CISA],
     "focus"          : ["Ethical Hacking", "Malware Analysis", "Detection Engineering"],
     "tools_built"    : ["MalwareScope v3.0", "Heyport v3.2", "BountyStrike v1.0"],
     "goal"           : "Professional Ethical Hacker & Security Researcher",
