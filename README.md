@@ -137,6 +137,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-9aba30404/)
 [![GitHub](https://img.shields.io/badge/GitHub-aishamjad33--ux-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aishamjad33-ux)
 [![Email](https://img.shields.io/badge/Email-aishamjad33@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishamjad33@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-Cisco%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ayesha)
 
 </div>
