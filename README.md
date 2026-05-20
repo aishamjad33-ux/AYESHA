@@ -1,11 +1,12 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Ayesha</h1>
-<h3>Information Security Analyst | SIEM | IDS/IPS | Penetration Tester | Malware Analyst | Security Tool Developer</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Ethical+Hacker+%F0%9F%94%90;Malware+Analyst+%F0%9F%A6%A0;Security+Tool+Developer+%F0%9F%9B%A1%EF%B8%8F;Blue+Team+%2B+Red+Team+%F0%9F%8E%AF;CCNA+%7C+CCNP+%7C+CEH+Certified+%E2%9C%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Ayesha+_+%7C+Network+Security+Engineer;CCNP+Security+%7C+Cisco+Certified+Specialist;Penetration+Tester+%7C+Malware+Analyst;Blue+Team+%2B+Red+Team+%7C+Detection+Engineer" alt="Typing SVG" />
 
 <br/>
+
+# Ayesha _
+### Information Security Analyst | Network Security Engineer — CCNP Security | Penetration Tester | Detection Engineer
+
 <br/>
 
 > *"Understanding attacks deeply to build better defenses."*
@@ -18,12 +19,16 @@
 
 <div align="center">
 
-| Certification | Issuer | Status |
-|:---:|:---:|:---:|
-| ![CCNA](https://img.shields.io/badge/CCNA-Cisco%20Certified%20Network%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ✅ Certified |
-| ![CCNP](https://img.shields.io/badge/CCNP-Cisco%20Certified%20Network%20Professional-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | Cisco | ✅ Certified |
-| ![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white) | EC-Council | ✅ Certified |
-| ![OSCP](https://img.shields.io/badge/OSCP-Offensive%20Security-E95420?style=for-the-badge&logo=linux&logoColor=white) | Offensive Security | 🔄 In Progress |
+| Certification | Issuer | Issued | Valid Through |
+|:---|:---|:---:|:---:|
+| Cisco Certified Network Professional — Security (CCNP Security) | Cisco | May 2026 | May 2029 |
+| Cisco Certified Specialist — Security Core | Cisco | May 2026 | May 2029 |
+| Cisco Certified Specialist — Network Security Firewalls | Cisco | May 2026 | May 2029 |
+| Cisco Certified Network Associate (CCNA) | Cisco | — |
+| Certified Ethical Hacker (CEH) | EC-Council | 2026 | — |
+| OSCP — Offensive Security Certified Professional | Offensive Security | 🔄 In Progress | — |
+
+> Cisco ID: CSCO15119097 — Verify at [cisco.com/go/verifycertificate](https://cisco.com/go/verifycertificate)
 
 </div>
 
@@ -35,13 +40,17 @@
 
 | Project | Description | Stack |
 |:---|:---|:---:|
+| 🔐 [**Secure VPN Infrastructure**](https://github.com/aishamjad33-ux/Secure-vpn-infrastructure) | Production-style OpenVPN server — PKI certificate authority, AES-256 encryption, UFW firewall, Fail2ban IPS, SSH hardening and automated bash scripts | `OpenVPN` `PKI` `UFW` `Bash` |
 | 🦠 [**MalwareScope v3.0**](https://github.com/aishamjad33-ux/MalwareScope) | Static malware analysis framework — PE inspection, YARA scanning, 20+ malware family detection, HTML/JSON reports | `Python` `YARA` `VirusTotal API` |
-| 🔍 [**Heyport v3.2**](https://github.com/aishamjad33-ux/Heyport) | Automated recon framework integrating 20 tools: subfinder, nmap, nuclei, OWASP ZAP, dalfox and more | `Python` `Nmap` `Nuclei` `ZAP` |
-| 🎯 [**BountyStrike v1.0**](https://github.com/aishamjad33-ux/BountyStrike) | Real bug bounty automation tool — chains 15+ tools, AI analyzes output, generates HTML + JSON + Markdown reports | `Python` `Nmap` `Nuclei` `SQLMap` |
-| 🎯 **BountyStrike v2.0** *(In Progress)* | Upgrading v1.0 with OpenVAS CVE scanning, OWASP ZAP DAST engine, and Playwright headless browser crawler | `OpenVAS` `ZAP API` `Playwright` |
-| 🤖 [**Wazuh SOC Automation**](https://github.com/aishamjad33-ux/wazuh-soc-automation) | AI-powered SOC pipeline — Wazuh alerts → Gemini AI analysis → automated threat reports | `n8n` `Wazuh` `Gemini AI` |
-| 🔴 [**LSASS Detection Lab**](https://github.com/aishamjad33-ux/lsass-detection-lab) | T1003.001 detection engineering — 5 custom Wazuh rules + automated SOC response workflow | `Wazuh` `Sysmon` `MITRE ATT&CK` |
-| 🧪 [**Malware Analysis Notes**](https://github.com/aishamjad33-ux/Malware-Analysis) | Structured malware analysis knowledge base — static analysis, packing, strings, IOCs, lab documentation | `Malware Analysis` `RE` `Blue Team` |
+| 🌐 [**Web Application Security Assessment**](https://github.com/aishamjad33-ux/Web-Application-Security-Assessment) | Professional web vulnerability assessment using Invicti v25.2 — phpMyAdmin target, 192-page detailed report | `Invicti` `OWASP` |
+| 🔍 [**Network Security Cisco VA**](https://github.com/aishamjad33-ux/Network-Security-Cisco-VA) | Vulnerability assessment on Cisco CSR1000V IOS XE 16.11 using Nessus Expert — 7 Critical, 40 High, 31 Medium findings | `Nessus` `Cisco IOS XE` |
+| 🤖 [**SOC Automation — Active Response**](https://github.com/aishamjad33-ux/SOC-Automation-Active-Response) | Automated SOC pipeline — Suricata detects SLOWLORIS, n8n blocks attacker IP via iptables and sends alert in under 5 seconds | `n8n` `Suricata` `iptables` |
+| 🔵 [**SOC Wazuh + Sysmon**](https://github.com/aishamjad33-ux/SOC-Wazuh-Sysmon-Windows) | SOC detection lab — Wazuh SIEM + Sysmon on Windows 10 — brute-force, FIM, VirusTotal and behavioral detection | `Wazuh` `Sysmon` `Windows` |
+| 🛡️ [**Wazuh + Suricata SOC**](https://github.com/aishamjad33-ux/Wazuh-Suricata-SOC-Lab) | SOC detection lab — Suricata 8.0 IDS + Wazuh SIEM — Nmap scan and XSS detection on Rocky Linux | `Wazuh` `Suricata` `Rocky Linux` |
+| 🧠 [**SIEM AI-Assisted Detection**](https://github.com/aishamjad33-ux/SIEM-AI-Assisted-Detection-Lab) | AI-powered SOC — Windows Event IDs, AI query generation, Suricata→ELK→AI pipeline, MITRE ATT&CK mapping | `ELK` `AI` `MITRE ATT&CK` |
+| 🕵️ [**SOC Lab — Web Attack HTTP 200**](https://github.com/aishamjad33-ux/SOC-Lab-Web-Attack-HTTP200) | Detecting SQL injection and XSS returning HTTP 200 using Wazuh SIEM + Apache log monitoring | `Wazuh` `Apache` `SQLi` `XSS` |
+| 🔬 [**Malware Analysis**](https://github.com/aishamjad33-ux/Malware-Analysis) | Static malware analysis methodology — IOC extraction, packing and obfuscation analysis, lab documentation | `RE` `YARA` `Blue Team` |
+| 🔌 [**Heyport ZAP Integration**](https://github.com/aishamjad33-ux/Heyport-ZAP-Integration) | OWASP ZAP CLI integration contributed to Heyport v3.2 recon framework — Phase 5 active web vulnerability scanning | `Python` `ZAP` `Recon` |
 
 </div>
 
@@ -54,91 +63,54 @@
 ### 🔴 Red Team — Offensive Security
 
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=flat-square&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-000000?style=flat-square&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-FF4500?style=flat-square&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-003366?style=flat-square&logoColor=white)
-![Medusa](https://img.shields.io/badge/Medusa-8B0000?style=flat-square&logoColor=white)
 ![NetExec](https://img.shields.io/badge/NetExec-222222?style=flat-square&logoColor=white)
 ![Impacket](https://img.shields.io/badge/Impacket-333333?style=flat-square&logoColor=white)
-![Dalfox](https://img.shields.io/badge/Dalfox-XSS-FF8C00?style=flat-square&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-228B22?style=flat-square&logoColor=white)
+![Dalfox](https://img.shields.io/badge/Dalfox-FF8C00?style=flat-square&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-CC0000?style=flat-square&logoColor=white)
-
-<br/>
 
 ### 🔵 Blue Team — Defensive Security
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-3CADD4?style=flat-square&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-IDS-EF7B00?style=flat-square&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-IDS%2FIPS-CC0000?style=flat-square&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF7B00?style=flat-square&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-0078D7?style=flat-square&logo=windows&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00B388?style=flat-square&logoColor=white)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=flat-square&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-Rules-FF8C00?style=flat-square&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-FF8C00?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-CC0000?style=flat-square&logoColor=white)
+![UFW](https://img.shields.io/badge/UFW-Firewall-1BA0D7?style=flat-square&logoColor=white)
 
-<br/>
+### 🔬 Malware Analysis & Forensics
 
-### 🕵️ OSINT & Reconnaissance
-
-![Maltego](https://img.shields.io/badge/Maltego-OSINT-1565C0?style=flat-square&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-CC0000?style=flat-square&logoColor=white)
-![theHarvester](https://img.shields.io/badge/theHarvester-228B22?style=flat-square&logoColor=white)
-![Recon-ng](https://img.shields.io/badge/Recon--ng-003366?style=flat-square&logoColor=white)
-![Amass](https://img.shields.io/badge/Amass-FF8C00?style=flat-square&logoColor=white)
-![Censys](https://img.shields.io/badge/Censys-1565C0?style=flat-square&logoColor=white)
-![Subfinder](https://img.shields.io/badge/Subfinder-7B2FBE?style=flat-square&logoColor=white)
-![bbot](https://img.shields.io/badge/bbot-1B5E20?style=flat-square&logoColor=white)
-
-<br/>
-
-### 🔬 Forensics & Malware Analysis
-
-![Volatility](https://img.shields.io/badge/Volatility-Memory%20Forensics-7B2FBE?style=flat-square&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-1565C0?style=flat-square&logoColor=white)
-![Binwalk](https://img.shields.io/badge/Binwalk-Firmware-546E7A?style=flat-square&logoColor=white)
-![Foremost](https://img.shields.io/badge/Foremost-File%20Recovery-607D8B?style=flat-square&logoColor=white)
-![PEstudio](https://img.shields.io/badge/PEstudio-PE%20Analysis-1565C0?style=flat-square&logoColor=white)
-![x64dbg](https://img.shields.io/badge/x64dbg-Debugger-212121?style=flat-square&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-Reverse%20Engineering-CC0000?style=flat-square&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-212121?style=flat-square&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-CC0000?style=flat-square&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-7B2FBE?style=flat-square&logoColor=white)
+![PEstudio](https://img.shields.io/badge/PEstudio-1565C0?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Binwalk](https://img.shields.io/badge/Binwalk-546E7A?style=flat-square&logoColor=white)
 
-<br/>
+### 🌐 Network Security
 
-### 🌐 Web Application Testing
-
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-CC0000?style=flat-square&logoColor=white)
-![WPScan](https://img.shields.io/badge/WPScan-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-228B22?style=flat-square&logoColor=white)
-![Nuclei](https://img.shields.io/badge/Nuclei-Templates-1565C0?style=flat-square&logoColor=white)
-
-<br/>
+![Cisco](https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-1565C0?style=flat-square&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-546E7A?style=flat-square&logoColor=white)
 
 ### 💻 Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![EVE-NG](https://img.shields.io/badge/EVE--NG-Lab-1565C0?style=flat-square&logoColor=white)
-
-<br/>
-
-### 🌐 Networking
-
-![Cisco](https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocols-546E7A?style=flat-square&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
@@ -149,12 +121,7 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=aishamjad33-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aishamjad33-ux&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aishamjad33-ux&theme=tokyonight&hide_border=true)
 
@@ -162,27 +129,13 @@
 
 ---
 
-## 🌍 About Me
-
-```python
-ayesha = {
-    "location"       : "Pakistan 🇵🇰",
-    "certifications" : ["CCNA", "CCNP", "CEH", "OSCP (in progress)", CISA],
-    "focus"          : ["Ethical Hacking", "Malware Analysis", "Detection Engineering"],
-    "tools_built"    : ["MalwareScope v3.0", "Heyport v3.2", "BountyStrike v1.0"],
-    "goal"           : "Professional Ethical Hacker & Security Researcher",
-    "motto"          : "Understand attacks deeply → Build better defenses"
-}
-```
-
----
-
-## 📫 Connect With Me
+## 📫 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-9aba30404/)
-[![GitHub](https://img.shields.io/badge/GitHub-aishamjad33--ux-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/aishamjad33-ux)
+[![GitHub](https://img.shields.io/badge/GitHub-aishamjad33--ux-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aishamjad33-ux)
 [![Email](https://img.shields.io/badge/Email-aishamjad33@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishamjad33@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-Cisco%20Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ayesha)
 
 </div>
