@@ -19,17 +19,18 @@
 
 <div align="center">
 
-| Certification | Issuer | Issued | Valid Through |
-|:---|:---|:---:|:---:|
-| Cisco Certified Network Professional — Security (CCNP Security) | Cisco | May 2026 | May 2029 |
-| Cisco Certified Specialist — Security Core | Cisco | May 2026 | May 2029 |
-| Cisco Certified Specialist — Network Security Firewalls | Cisco | May 2026 | May 2029 |
-| Cisco Certified Network Associate (CCNA) | Cisco | — |
-| Certified Ethical Hacker (CEH) | EC-Council | 2026 | — |
-| OSCP — Offensive Security Certified Professional | Offensive Security | 🔄 In Progress | — |
+| Certification | Issuer | Issued | Valid Through | Certificate |
+|:---|:---|:---:|:---:|:---:|
+| Cisco Certified Network Professional — Security (CCNP Security) | Cisco | May 2026 | May 2029 | [📄 View](CCNP-Security.pdf) |
+| Cisco Certified Specialist — Security Core | Cisco | May 2026 | May 2029 | [📄 View](Cisco-Security-Core-Specialist.pdf) |
+| Cisco Certified Specialist — Network Security Firewalls | Cisco | May 2026 | May 2029 | [📄 View](Cisco-Firewall-Specialist.pdf) |
+| Cisco Certified Network Associate (CCNA) | Cisco | 2024 | — | [📄 View](CCNA.pdf) |
+| Certified Ethical Hacker (CEH) | EC-Council | 2026 | — | — |
+| CISA — Certified Information Systems Auditor | ISACA | 🔄 In Progress | — | — |
 
-> Cisco ID: CSCO15119097 — Verify at [cisco.com/go/verifycertificate](https://cisco.com/go/verifycertificate)
+> Cisco ID: CSCO15119097 — [Verify at Cisco](https://cisco.com/go/verifycertificate)
 
+</div>
 </div>
 
 ---
