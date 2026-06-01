@@ -28,7 +28,7 @@
 | Certified Ethical Hacker (CEH) | EC-Council | 2026 | — | — |
 | CISA — Certified Information Systems Auditor | ISACA | 🔄 In Progress | — | — |
 
-> Cisco ID: CSCO15119097 — [Verify at Cisco](https://cisco.com/go/verifycertificate)
+
 
 </div>
 </div>
