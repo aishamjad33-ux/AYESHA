@@ -22,7 +22,7 @@
 | Certification | Issuer | Issued | Valid Through | Certificate |
 |:---|:---|:---:|:---:|:---:|
 | Cisco Certified Network Professional — Security (CCNP Security) | Cisco | May 2026 | May 2029 | [📄 View](CCNP-Security.pdf) |
-| Cisco Certified Specialist — Security Core | Cisco | May 2026 | May 2029 | [📄 View](Cisco-Security-Core-Specialist.pdf) |
+| Cisco Certified Specialist — Security Core | Cisco | May 2026 | May 2029 | [📄 View](Cisco Certified Specialist - Security Core certificate.pdf) |
 | Cisco Certified Specialist — Network Security Firewalls | Cisco | May 2026 | May 2029 | [📄 View](Cisco-Firewall-Specialist.pdf) |
 | Cisco Certified Network Associate (CCNA) | Cisco | 2024 | — | [📄 View](CCNA.pdf) |
 | Certified Ethical Hacker (CEH) | EC-Council | 2026 | — | — |
