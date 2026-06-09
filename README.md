@@ -25,7 +25,7 @@
 | Cisco Certified Specialist — Security Core | Cisco | May 2026 | May 2029 |[📄 View](Cisco%20Certified%20Specialist%20-%20Security%20Core%20certificate.pdf) |
 | Cisco Certified Specialist — Network Security Firewalls | Cisco | May 2026 | May 2029 |[📄 View](Cisco-Security-Core-Specialist.pdf)
 | Cisco Certified Network Associate (CCNA) | Cisco | 2024 | — | [📄 View](CCNA.pdf) |
-| Certified Ethical Hacker (CEH) | EC-Council | 2026 | 2027 | [📄 View].(ECC-CEH-Certificate.pdf) |
+| Certified Ethical Hacker (CEH) | EC-Council | 2026 | 2027 | [📄 View](ECC-CEH-Certificate.pdf) |
 | CISA — Certified Information Systems Auditor | ISACA | 🔄 In Progress | — | — |
 
 
