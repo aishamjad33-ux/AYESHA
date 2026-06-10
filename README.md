@@ -19,6 +19,10 @@
 
 <div align="center">
 
+<a href="ECC-CEH-Certificate.pdf">
+  <img src="CEH_2E345519D3F7.png" alt="Certified Ethical Hacker (CEH)" width="150"/>
+</a>
+
 | Certification | Issuer | Issued | Valid Through | Certificate |
 |:---|:---|:---:|:---:|:---:|
 | Cisco Certified Network Professional — Security (CCNP Security) | Cisco | May 2026 | May 2029 | [📄 View](CCNP-Security.pdf) |
