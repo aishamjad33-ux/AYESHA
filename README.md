@@ -5,7 +5,7 @@
 <br/>
 
 # Ayesha _
-### Information Security Analyst | Network Security Engineer — CCNP Security | Penetration Tester | Detection Engineer
+### Information Security & Network Engineer — CCNP Security | Penetration Tester | Detection Engineer
 
 <br/>
 
